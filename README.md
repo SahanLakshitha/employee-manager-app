@@ -63,7 +63,13 @@ Approximately 8 hours for complete implementation including testing and debuggin
   - `Connect an Android device or start an emulator`
 
 - Run the App
+    ```bash
     flutter run
 
 - To build an APK file:
+    ```bash
     flutter build apk --release
+
+#Screen recording
+
+"https://drive.google.com/file/d/10WkLaGuidW0xvzKr-xatU_qyV66nyYFg/view?usp=drive_link"
